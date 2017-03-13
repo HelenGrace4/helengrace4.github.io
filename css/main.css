@@ -33,7 +33,7 @@
   <src: href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
 }
 
-body { background-image: src="images/Puffin002.jpg"
+body { background-image: src="images/Puffin002.jpg";
   font-family: 'Playfair Display', serif;
 }
 
