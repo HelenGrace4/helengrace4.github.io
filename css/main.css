@@ -3,8 +3,35 @@
  * by helengrace4
  * ================================================================= */
 
+/* Charset Controls */
+@charset "UTF-8";
+
+/* Media Query controls */
+@-moz-viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+@-ms-viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+@-o-viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+@-webkit-viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+@viewport {
+  width: device-width;
+  zoom: 1.0;
+}
 
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
 
 body { font-family: 'Playfair Display', serif;
+}
+
+h1 {font-weight: normal;
 }
